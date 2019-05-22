@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Chamilo Test Suite" duration-ms="361027" started-at="2019-05-22T10:42:31Z" finished-at="2019-05-22T10:48:32Z">
+    <groups>
+    </groups>
+    <test name="Chamilo Test" duration-ms="361027" started-at="2019-05-22T10:42:31Z" finished-at="2019-05-22T10:48:32Z">
+      <class name="com.chamilo.testcases.Add_Announcement_test">
+        <test-method status="PASS" signature="clickonannouncementpage()[pri:1, instance:com.chamilo.testcases.Add_Announcement_test@7823a2f9]" name="clickonannouncementpage" duration-ms="60396" started-at="2019-05-22T16:14:24Z" finished-at="2019-05-22T16:15:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonannouncementpage -->
+        <test-method status="PASS" signature="clickonannouncementpage1()[pri:2, instance:com.chamilo.testcases.Add_Announcement_test@7823a2f9]" name="clickonannouncementpage1" duration-ms="34940" started-at="2019-05-22T16:16:18Z" finished-at="2019-05-22T16:16:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonannouncementpage1 -->
+      </class> <!-- com.chamilo.testcases.Add_Announcement_test -->
+      <class name="com.chamilo.testcases.Enroll_Users_test">
+        <test-method status="PASS" signature="clickonenrollpage()[pri:1, instance:com.chamilo.testcases.Enroll_Users_test@482f8f11]" name="clickonenrollpage" duration-ms="112491" started-at="2019-05-22T16:12:31Z" finished-at="2019-05-22T16:14:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonenrollpage -->
+        <test-method status="PASS" signature="clickonenrollpage1()[pri:2, instance:com.chamilo.testcases.Enroll_Users_test@482f8f11]" name="clickonenrollpage1" duration-ms="53957" started-at="2019-05-22T16:15:24Z" finished-at="2019-05-22T16:16:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonenrollpage1 -->
+        <test-method status="PASS" signature="clickonAssessment_Assignment()[pri:3, instance:com.chamilo.testcases.Enroll_Users_test@482f8f11]" name="clickonAssessment_Assignment" duration-ms="63727" started-at="2019-05-22T16:16:53Z" finished-at="2019-05-22T16:17:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonAssessment_Assignment -->
+        <test-method status="PASS" signature="clickonAssessment_Assignment1()[pri:4, instance:com.chamilo.testcases.Enroll_Users_test@482f8f11]" name="clickonAssessment_Assignment1" duration-ms="35459" started-at="2019-05-22T16:17:57Z" finished-at="2019-05-22T16:18:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickonAssessment_Assignment1 -->
+      </class> <!-- com.chamilo.testcases.Enroll_Users_test -->
+    </test> <!-- Chamilo Test -->
+  </suite> <!-- Chamilo Test Suite -->
+</testng-results>
